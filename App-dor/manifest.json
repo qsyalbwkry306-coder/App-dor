@@ -3,8 +3,9 @@
   "name": "محاسب ورشة الأبواب الذكي",
   "short_name": "محاسب الورشة",
   "description": "تطبيق محاسبي متكامل لإدارة ورش تصنيع الأبواب، يشمل إدارة الطلبات، الحسابات، المخزون، والتحليل الذكي.",
-  "start_url": "..",
+  "start_url": ".",
   "display": "standalone",
+  "scope": ".",
   "background_color": "#f8fafc",
   "theme_color": "#4f46e5",
   "icons": [
